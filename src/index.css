@@ -30,7 +30,6 @@ html {
 }
 body {
   position: relative;
-  max-width: var(--max-width);
   margin: 0 auto;
   background: var(--clr-white);
   font-size: 1rem;
@@ -206,7 +205,6 @@ p {
 .header {
   position: fixed;
   width: 100%;
-  max-width: 1440px;
   max-height: 80px;
   background-color: var(--clr-white);
   z-index: 1;
@@ -217,6 +215,7 @@ p {
 }
 .header-container {
   position: relative;
+  height: 100%;
 }
 .burger {
   display: flex;
@@ -251,7 +250,6 @@ p {
 }
 .logo {
   width: 202px;
-  display: inline-block;
   transform: translateX(calc(50vw - 120px));
 }
 .header-nav {
@@ -362,7 +360,9 @@ main {
   }
   .logo {
     width: 23%;
+    max-width: 202px;
     transform: translateX(0);
+    flex-shrink: 1;
   }
   .side-menu {
     display: none;
@@ -382,6 +382,7 @@ main {
   /* hero */
   .hero-section {
     padding: 1.5rem 0 1.5rem;
+    min-height: 403px;
   }
   .hero-article {
     gap: 2.7rem;
@@ -392,11 +393,12 @@ main {
     top: 0;
     right: 0;
     width: 42.3%;
+    max-width: 375px;
     max-height: 355px;
     overflow: hidden;
   }
   .hero-img img {
-    aspect-ratio: 0;
+    aspect-ratio: 1/1;
   }
   .hero-section p {
     max-width: min(65ch, 45%);
