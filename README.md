@@ -1,6 +1,6 @@
 # Demo project:
 
-Open [https://osama-arch.github.io/littlelemon/](https://osama-arch.github.io/littlelemon/) to view it in your browser.
+Open [https://osama-arch.github.io/LIttle_lemon_React/](https://osama-arch.github.io/LIttle_lemon_React/) to view it in your browser.
 
 # Demo Gif
 
