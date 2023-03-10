@@ -1,6 +1,6 @@
 # Demo project:
 
-Open [https://osama-arch.github.io/petStory/](https://osama-arch.github.io/petStory/) to view it in your browser.
+Open [https://osama-arch.github.io/littlelemon/](https://osama-arch.github.io/littlelemon/) to view it in your browser.
 
 # Demo Gif
 
