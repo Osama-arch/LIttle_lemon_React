@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/LIttle_lemon_React/static/css/main.80d83732.css",
+    "main.js": "/LIttle_lemon_React/static/js/main.85b00739.js",
+    "static/js/787.a2f6b77c.chunk.js": "/LIttle_lemon_React/static/js/787.a2f6b77c.chunk.js",
+    "static/media/restauranfood.jpg": "/LIttle_lemon_React/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Italian-Bruschetta-Recipe.jpg": "/LIttle_lemon_React/static/media/Italian-Bruschetta-Recipe.d6a99831c8b6db0262e4.jpg",
+    "static/media/tagine.jpg": "/LIttle_lemon_React/static/media/tagine.d6556de0d018c295f848.jpg",
+    "static/media/greek-salad-b.jpg": "/LIttle_lemon_React/static/media/greek-salad-b.4b4565715ab9ed19346b.jpg",
+    "static/media/zesty.jpg": "/LIttle_lemon_React/static/media/zesty.800531e38c21ca812197.jpg",
+    "static/media/sandwich.jpg": "/LIttle_lemon_React/static/media/sandwich.8895e834470c7efde314.jpg",
+    "static/media/caesar-salad.jpg": "/LIttle_lemon_React/static/media/caesar-salad.608fe1016887ee38eb1a.jpg",
+    "static/media/loby.jpg": "/LIttle_lemon_React/static/media/loby.d0fa0c68fa16060f8f9f.jpg",
+    "static/media/hall.jpg": "/LIttle_lemon_React/static/media/hall.362d488c0e3821058312.jpg",
+    "static/media/logo.png": "/LIttle_lemon_React/static/media/logo.d4cae6fac8384c2dae04.png",
+    "static/media/user-4.png": "/LIttle_lemon_React/static/media/user-4.ccdcea01362423e8e2bf.png",
+    "static/media/user-2.png": "/LIttle_lemon_React/static/media/user-2.ba5a7f9f30d58ab385d9.png",
+    "static/media/user-3.png": "/LIttle_lemon_React/static/media/user-3.fa4be855aa1466a1fcb3.png",
+    "static/media/user-1.png": "/LIttle_lemon_React/static/media/user-1.333854849cb34643a28e.png",
+    "static/media/Star.svg": "/LIttle_lemon_React/static/media/Star.3e4e28a8b1fca089debe2f63a6e95a97.svg",
+    "static/media/insta.svg": "/LIttle_lemon_React/static/media/insta.265038b0bcaa843e2112.svg",
+    "index.html": "/LIttle_lemon_React/index.html",
+    "static/media/check.svg": "/LIttle_lemon_React/static/media/check.835334ee0880c3823706bd86993ab4e0.svg",
+    "static/media/twitter.svg": "/LIttle_lemon_React/static/media/twitter.d4bb27e4d1406d2ca6e8.svg",
+    "static/media/basket.svg": "/LIttle_lemon_React/static/media/basket.38ec0d186bf4ca5d7b481b657e8f4796.svg",
+    "static/media/youtube.svg": "/LIttle_lemon_React/static/media/youtube.d8966b5789ff75e7fd24.svg",
+    "static/media/facebook.svg": "/LIttle_lemon_React/static/media/facebook.de8ae2d27d96e8458777.svg",
+    "main.80d83732.css.map": "/LIttle_lemon_React/static/css/main.80d83732.css.map",
+    "main.85b00739.js.map": "/LIttle_lemon_React/static/js/main.85b00739.js.map",
+    "787.a2f6b77c.chunk.js.map": "/LIttle_lemon_React/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80d83732.css",
+    "static/js/main.85b00739.js"
+  ]
+}
