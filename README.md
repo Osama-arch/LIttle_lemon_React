@@ -1,10 +1,15 @@
 # Demo project:
 
-Open [https://osama-arch.github.io/LIttle_lemon_React/](https://osama-arch.github.io/LIttle_lemon_React/) to view it in your browser.
+Open **[Live Demo](https://osama-arch.github.io/LIttle_lemon_React/) to view it in your browser.
 
 # Demo Gif
 
 ![Little-lemon](./public/little-lemon.gif)
+
+
+# Descreption
+design and prototype the features of the Little Lemon restaurant website. It is supposed that the user can reserve a table in the restaurant, and choose food from the menu. I've created the main page, and the reservation page.
+
 
 # Getting Started with Create React App
 
