@@ -4,7 +4,7 @@ Open **[Live Demo](https://osama-arch.github.io/LIttle_lemon_React/) to view it 
 
 # Demo Gif
 
-[Little-lemon](./public/little-lemon.gif)
+![Little-lemon](./public/little-lemon.gif)
 
 
 # Descreption
